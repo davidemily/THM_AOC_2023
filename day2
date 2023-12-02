@@ -1,12 +1,13 @@
 Open the notebook "Workbook" located in the directory "4_Capstone" on the VM. Use what you have learned today to analyse the packet capture.
 No answer needed
+
 How many packets were captured (looking at the PacketNumber)?
+100
 
-Answer format: ***
 What IP address sent the most amount of traffic during the packet capture?
+10.10.1.4
 
-Answer format: **.**.*.*
 What was the most frequent protocol?
+ICMP
 
-Answer format: ****
 If you enjoyed today's task, check out the Intro to Log Analysis room.
